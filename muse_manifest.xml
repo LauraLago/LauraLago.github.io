@@ -1,0 +1,63 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LauraLago.com" resolutions="1x" timestamp="1528804799207">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4008505881" ref="contacto:sobre-mi:galeria:index:demoreel"/>
+    <file name="contacto.css" crc="3901008044" ref="contacto"/>
+    <file name="sobre-mi.css" crc="3998410003" ref="sobre-mi"/>
+    <file name="galeria.css" crc="4035774611" ref="galeria"/>
+    <file name="index.css" crc="4166550889" ref="index"/>
+    <file name="demoreel.css" crc="3903245786" ref="demoreel"/>
+  </folder>
+  <folder name="assets">
+    <file name="comp-1_1.mov" crc="340675715" seo="true" mt="1528730290000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="museutils.js" crc="4216313831" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="museconfig.js" crc="474374037" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="require.js" crc="3951022091" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+  </folder>
+  <folder name="images">
+    <file name="u128-4.png" crc="4256511968" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u477-4.png" crc="518753852" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u607-4.png" crc="109475290" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u579-4.png" crc="386775629" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u551-4.png" crc="4224642189" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u522-4.png" crc="444942167" ref="index:sobre-mi:contacto:galeria:demoreel"/>
+    <file name="u656-4.png" crc="4009388008" ref="index"/>
+    <file name="buejno.jpg" crc="4201202044" ref="index:sobre-mi:contacto:galeria:demoreel">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="demoreel" alt=""/>
+    </file>
+    <file name="u744-15.png" crc="3962453621" ref="sobre-mi"/>
+    <file name="u780-17.png" crc="4129303403" ref="contacto"/>
+    <file name="instagram_color_icon-iconscom_71811-crop-u783.png" crc="137238026" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="vimeo.png" crc="518948296" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="ca-02lauralago.jpg" crc="178702180" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ca-04_lauralago.jpg" crc="412154454" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ca_01_lauralago.jpg" crc="4041306939" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="287045538" seo="true" mt="1528741562428" redirect="true"/>
+  <file name="sobre-mi.html" crc="500680280" seo="true" mt="1528801212388" redirect="true"/>
+  <file name="contacto.html" crc="111525354" seo="true" mt="1528804409467" redirect="true"/>
+  <file name="galeria.html" crc="3778756193" seo="true" mt="1528801190211" redirect="true"/>
+  <file name="demoreel.html" crc="407612025" seo="true" mt="1528793983766" redirect="true"/>
+</manifest>
